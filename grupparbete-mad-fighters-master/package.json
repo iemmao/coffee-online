@@ -1,0 +1,19 @@
+{
+  "name": "grupparbete-mad-fighters",
+  "version": "1.0.0",
+  "description": "Du ska bygga en webbapp där du kan beställa kaffe och få den levererad via drönare (drönare ingår ej i uppgiften).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Avancerad-JavaScript-med-React-JS-EC/grupparbete-mad-fighters.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Avancerad-JavaScript-med-React-JS-EC/grupparbete-mad-fighters/issues"
+  },
+  "homepage": "https://github.com/Avancerad-JavaScript-med-React-JS-EC/grupparbete-mad-fighters#readme"
+}
